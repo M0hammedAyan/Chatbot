@@ -1,2 +1,2 @@
 # Chatbot
-My First Chatbot using initials
+My First Chatbot using intents
